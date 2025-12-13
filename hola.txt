@@ -1,4 +1,4 @@
 Esta es la primera clase de Github
 
 Estos son cambios que agrego ahora =)
-// Estamos agregando un botón
+// Estamos agregando un boton

@@ -1,4 +1,4 @@
 Esta es la primera clase de Github
 
-Estos son cambios que agrego ahora =)
+Estos son cambios que agrego ahora T.T
 // Estamos agregando un boton
